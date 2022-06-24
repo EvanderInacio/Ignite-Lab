@@ -24,6 +24,8 @@ dist-ssr
 *.sln
 *.sw?
 
+.evn.local
+
 # .txt
 NewContent.txt
 
