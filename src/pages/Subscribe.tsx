@@ -1,4 +1,6 @@
 import { gql, useMutation } from '@apollo/client';
+import ReactIcon from '../assets/ReactJS-icon.png';
+import Mockup from '../assets/code-mockup.png'
 import { useState, FormEvent } from 'react'
 import { useNavigate } from 'react-router-dom';
 import { Logo } from '../components/Logo'
@@ -81,12 +83,12 @@ export function Subscriber() {
       </div>
 
       <img
-        src="/src/assets/ReactJS-icon.png"
+        src={ReactIcon}
         className="z-10 fixed top-5"
         alt=""
       />
       <img 
-        src="/src/assets/code-mockup.png" 
+        src={Mockup} 
         className="mt-2 z-20"
         alt=""
        />
