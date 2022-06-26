@@ -2,7 +2,7 @@
   Ignite Lab
 </h1>
 
-![Resultado final do projeto](https://ignite-lab-ten.vercel.app/assets/ignite-lab.png)
+![Resultado final do projeto](https://raw.githubusercontent.com/EvanderInacio/Ignite-Lab/main/src/assets/ignite-lab.png)
 
 <br>
 
